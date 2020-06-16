@@ -81,4 +81,4 @@ You are required to submit the following:
 
 ## Demonstration
 
-![](noteTakerGif.GIF)
+![](noteTakerGif.gif)
